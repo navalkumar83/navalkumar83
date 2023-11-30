@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naval Kumar
-- 👀 I’m interested in Data Manipulation 
+- 👀 I’m interested in Data Engineering 
 - 🌱 I’m currently learning Pyspark,Sql,Python
 - 📫 Reach me naval.kumar.73216@gmail.com and contact num. +91 8318728193
 
